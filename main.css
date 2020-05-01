@@ -1,0 +1,33 @@
+
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+body{
+  background-image: url("money.jpg");
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h3{
+  color: black;
+}
+h2{
+  color: blue;
+}
+.a1{
+  color:White;
+}
+.a2{
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+;
+}
+.a3{
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
